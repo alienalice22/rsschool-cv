@@ -1,11 +1,11 @@
 # Hegay Alisa
 ## Junior Front-end Developer
-
 ## My contact information
 - Phone: +99363996745
 - E-mail: alicehegay2202@gamil.com
-- GitHub: https://github.com/alienalice22
+- GitHub: [alienliace22]https://github.com/alienalice22
 - Telegram: @alienalice0
+- Discord: alienalice22#8104
 # Briefly about me 
 I am a 17 years-old high school graduate, who is just starting a career as a front-end(full-stack in the future) developer. I am passionate about learning in general and highly interested in web-development.
 Some of my strengths:
