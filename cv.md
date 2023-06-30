@@ -2,7 +2,7 @@
 ## Junior Front-end Developer
 ## My contact information
 - Phone: +99363996745
-- E-mail: alicehegay2202@gamil.com
+- E-mail: alicehegay2202@gmail.com
 - GitHub: [alienalice22](https://github.com/alienalice22)
 - Telegram: @alienalice0
 - Discord: alienalice22#8104
