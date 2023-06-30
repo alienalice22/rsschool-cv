@@ -3,7 +3,7 @@
 ## My contact information
 - Phone: +99363996745
 - E-mail: alicehegay2202@gamil.com
-- GitHub: [alienliace22]https://github.com/alienalice22
+- GitHub: [alienalice22](https://github.com/alienalice22)
 - Telegram: @alienalice0
 - Discord: alienalice22#8104
 # Briefly about me 
