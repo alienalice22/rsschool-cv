@@ -35,6 +35,11 @@ function solution(number){
 # Courses
 - Web-технологии: начальный уровень (https://stepik.org/course/82108/info)
 - RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
+# Projects
+- https://alienalice22.github.io/rsschool-cv/cv
+- https://alienalice22.github.io/rsschool-cv/
+# Education
+Joint Turkmen-Russian Secondary School, Ashgabat, Turkmenistan
 # Languages
 - Russian - native
 - English - proficient
